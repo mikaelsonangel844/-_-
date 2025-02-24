@@ -52,7 +52,7 @@ Zokou est un bot multi-devices conçu pour enrichir vos conversations WhatsApp a
 PREFIXE=+
 LECTURE_AUTO_STATUS=non
 TELECHARGER_AUTO_STATUS=non
-NOM_BOT=Zokou-MD
+NOM_BOT=murphy-md
 LIENS_MENU=ᴍᴜʀᴘʜʏ᭄ғғ⚠️
 PM_PERMIT=non
 MODE_PUBLIC=non
