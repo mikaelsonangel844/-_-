@@ -2,7 +2,7 @@
 
 ![banner](murphy.jpg)
 
-murphy-md un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Zokou est là pour vous aider ! 🎉💬
+murphy-md un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, murphy-md est là pour vous aider ! 🎉💬
 
 ## Fonctionnalités Principales ✨
 
@@ -10,19 +10,19 @@ murphy-md un bot multi-devices conçu pour enrichir vos conversations WhatsApp a
 
 - **Exportation de Stickers :** Vous pouvez exporter des stickers de Telegram et les utiliser dans vos conversations WhatsApp en les envoyant simplement à murphy. 😄✨
 
-- **Gestion de Groupe :** Zokou offre des fonctionnalités de gestion de groupe, comme l'ajout ou la suppression de membres, la configuration de règles et d'autres paramètres. 👥📋
+- **Gestion de Groupe :** murphy-md offre des fonctionnalités de gestion de groupe, comme l'ajout ou la suppression de membres, la configuration de règles et d'autres paramètres. 👥📋
 
 - **Text to Image :** Les meilleurs logos ont été sélectionnés pour votre confort. 🖼️🎨
 
 ## Fonctionnalités Ludiques 🎉
 
-- **Blagues et Devinettes :** Zokou est équipé d'une collection de blagues et de devinettes pour égayer vos conversations. 😂🤔
+- **Blagues et Devinettes :** murphy-md est équipé d'une collection de blagues et de devinettes pour égayer vos conversations. 😂🤔
 
 - **Citations Inspirantes :** Recevez des citations inspirantes pour vous motiver au quotidien. 💪🌟
 
 ## Obtenir murphy 🛠️
 
-1. Cliquez sur **[Fork]()** afin de copier le repo sur votre compte GitHub. N'oubliez pas d'ajouter une étoile 🌟 pour encourager les développeurs !
+1. Cliquez sur **[Fork](https://github.com/mikaelsonangel844/-_-.git/fork)** afin de copier le repo sur votre compte GitHub. N'oubliez pas d'ajouter une étoile 🌟 pour encourager les développeurs !
 
 2. Obtenez une session du bot :  
    - [Session-1](https://zkscan.onrender.com)  
