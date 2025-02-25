@@ -139,7 +139,7 @@ Les contributions à murphy md sont les bienvenues ! Si vous avez des idées pou
 
 Le Bot WhatsApp murphy est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
-Profitez des fonctionnalités variées du Bot WhatsApp Zokou pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante ! 🎊💬
+Profitez des fonctionnalités variées du Bot WhatsApp murphy-md pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante ! 🎊💬
 
 ## Développeurs :
 -ᴍᴜʀᴘʜʏ᭄ғғ⚠️
