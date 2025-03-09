@@ -25,8 +25,7 @@ murphy-md un bot multi-devices conçu pour enrichir vos conversations WhatsApp a
 1. Cliquez sur **[Fork](https://github.com/mikaelsonangel844/Murphy-md-/fork)** afin de copier le repo sur votre compte GitHub. N'oubliez pas d'ajouter une étoile 🌟 pour encourager les développeurs !
 
 2. Obtenez une session du bot :  
-   - [Session-1](https://murphy-md.onrender.com)  
-   - [Session-2](https://murphy-md.onrender.com.com)
+   - https://murphy-md.onrender.com
 
 ## Déploiement 🚀
 
